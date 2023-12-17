@@ -18,7 +18,6 @@ I don't know what to do with my life :v LOL
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Baodeptraii"><img src="https://github-readme-stats.vercel.app/api?username=Baodeptraii&show_icons=true&hide=prs,issues,contribs&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Baodeptraii's GitHub stats" /></a>
 
 <a href="http://www.github.com/Baodeptraii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Baodeptraii&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
