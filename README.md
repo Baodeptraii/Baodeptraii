@@ -6,7 +6,7 @@ I don't know what to do with my life :v LOL
 
 * 🌍  I'm based in The Earth.
 * ✉️  You can contact me at [trbaoquoc1012@gmail.com](mailto:trbaoquoc1012@gmail.com)
-* 🧠  I'm learning how to dominate the world.
+* 🧠  I'm still learning how to code.
 * ⚡  I'm Wibu, Vozer, Tít-con, Ri-con, Madridista.
 
 
