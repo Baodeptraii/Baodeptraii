@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I don't know what to do with my life :v LOL
 -------------------------------------------
 
-* 🌍  I'm based in The Earth.
+* 🌍  I'm based on The Earth.
 * ✉️  You can contact me at [trbaoquoc1012@gmail.com](mailto:trbaoquoc1012@gmail.com)
 * 🧠  I'm still learning every single day.
 * ⚡  I'm Wibu, Vozer, Tít-con, Ri-con, Madridista.
