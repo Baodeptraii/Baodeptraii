@@ -1,37 +1,45 @@
 
 
-<h2 align="center">Re3on — CyberSec is my playground</h2>
+<img hight="200" width="300" alt="Re3on" align="right" src="https://github.com/Baodeptraii/assets/blob/main/re3on.png">
+
 
 <p align="center">
-  🌌 Welcome to my dark corner of GitHub, where logs are hunted, packets are dissected, and the blue team always bites back.
+  🌌 Welcome to my dark corner of GitHub.
 </p>
 
 ---
 
-## 🧠 About Me
+ ### 🧠 About Me
 
 - 🏠 **Base**: Somewhere outside Hanoi
 - 💻 **Focus**: Blue Team 🔵 | SOC Analyst 🕵️‍♂️ 
 - 🍥 **Fun**: Wibu | Vozer | Tít-con | Ricon | Madridista 
-- ⛩️ **Philosophy**: *Stay calm, grep logs, drop payloads*
+- 🚩 **CTF Team**: SECJOTA ~ SECJ0TA
 
 ---
 
 
 
-## 🖤 Aesthetic Mode: Activated
+## 🖤 *Shatter, Kyoka Suigetsu!*
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/fa/61/92/fa6192ef1935fde727ae094ce6ec71bc.gif" alt="Aizen Cybersec Mode" width="80%" />
 </p>
 
-> *"... All the flags you’ve captured, all the bugs you’ve chased, even the memes you laughed at at 3AM... were simply part of my plan."*  
-> *"All the writeups you studied, all the payloads you crafted... they were breadcrumbs I left for you."*  
-> *"You thought you found the vulnerability... but the real bug was always you."*  
-> *"That feeling when you finally get the flag? I scripted that emotion."*   
-> – Not by Aichim   
+> **"...All the flags you captured, the bugs you chased, even the memes you laughed at at 3AM...**  
+> **...they were all part of my plan."**  
+>
+> **The writeups you studied. The payloads you crafted.**  
+> **Breadcrumbs I left behind.**  
+>
+> **You thought you found the vulnerability...**  
+> **But the real bug... was always you.**  
+>
+> **That feeling when you finally get the flag?**  
+> **Scripted. By me."**  
+>
+> — *Not by Aichim*
 
----
 
 ## 📈 GitHub Stats (Because numbers are cool)
 
