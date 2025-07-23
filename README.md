@@ -44,9 +44,9 @@
 ## 📈 GitHub Stats (Because numbers are cool)
 
 <p align="center">
-  <img height="280" src="https://github-readme-stats.vercel.app/api?username=Baodeptraii&show_icons=true&theme=tokyonight" alt="Bảo's GitHub Stats"/>
+  <img height="280" src="https://github-readme-stats.vercel.app/api?username=Baodeptraii&rank_icon=github&theme=tokyonight" alt="Bảo's GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="280" src="https://github-readme-streak-stats.herokuapp.com?user=Baodeptraii&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="280" src="https://github-readme-streak-stats-eight.vercel.app?user=Baodeptraii&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 
