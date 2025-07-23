@@ -20,10 +20,10 @@
 
 
 
-## 🖤 *Shatter, Kyoka Suigetsu!*
+## 🖤 *Hadō #99: Goryūtenmetsu!*
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fa/61/92/fa6192ef1935fde727ae094ce6ec71bc.gif" alt="Aizen Cybersec Mode" width="80%" />
+  <img src="https://github.com/Baodeptraii/assets/blob/main/aizen.gif" alt="Aizen" width="80%" />
 </p>
 
 > **"...All the flags you captured, the bugs you chased, even the memes you laughed at at 3AM...**  
