@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  🌌 Welcome to my dark corner of GitHub.
+   【 Yokoso, Watashi no Gittohabu. 】
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 
 
-## 🖤 *Hadō #99: Goryūtenmetsu!*
+## 🕶️  *Hadō #99: Goryūtenmetsu!*
 
 <p align="center">
   <img src="https://github.com/Baodeptraii/assets/blob/main/aizen.gif" alt="Aizen" width="80%" />
@@ -38,16 +38,17 @@
 > **That feeling when you finally get the flag?**  
 > **Scripted. By me."**  
 >
-> — *Not by Aichim*
+> — *Not by Aizen, probably.*
 
 
 ## 📈 GitHub Stats (Because numbers are cool)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baodeptraii&show_icons=true&theme=tokyonight" alt="Bảo's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Baodeptraii&theme=tokyonight" alt="GitHub Streak" />
+  <img height="280" src="https://github-readme-stats.vercel.app/api?username=Baodeptraii&show_icons=true&theme=tokyonight" alt="Bảo's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="280" src="https://github-readme-streak-stats.herokuapp.com?user=Baodeptraii&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
