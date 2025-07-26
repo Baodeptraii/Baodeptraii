@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   【 Yokoso, Watashi no Gittohabu. 】
+   【 Yokoso, Watashi no Github. 】
 </p>
 
 ---
