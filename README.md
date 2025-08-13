@@ -14,7 +14,7 @@
 - 🏠 **Base**: Somewhere outside Hanoi
 - 💻 **Focus**: Blue Team 🔵 | SOC Analyst 🕵️‍♂️ 
 - 🍥 **Fun**: Wibu | Vozer | Tít-con | Ricon | Madridista 
-- 🚩 **CTF Team**: SECJOTA
+- 🚩 **CTF Team**: [**SECJOTA**](https://ctftime.org/team/354523)
 
 ---
 
